@@ -1,0 +1,8 @@
+{
+  "baseUrl": "https://candidate--qa-exercise-may.reviews.compono.dev/profile",
+  "video": false,
+  "reporter": "cypress-mochawesome-reporter",
+  "reporterOptions": {
+    "autoOpen": true
+  }
+}

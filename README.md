@@ -5,12 +5,13 @@ PRE-REQ:
 ```node -v```
 
 ```npm -v```
+
 3. If you are unable to view the versions above in IDE's Windows Powershell, reopen the IDE with Admin.
 4. In your project directory, run ```npm install``` to install Cypress.
 5. If there are installation issues, delete 'package-lock.json', and try again.
 
 RUN INSTRUCTIONS:
-1. In the terminal of your IDE (or machine), ensure you are in project directory (CypressTestAutomation folder).
+1. In the terminal of your IDE (or machine), ensure you are in project directory.
 2. Run the command below to execute the test:
 
 ```sh
